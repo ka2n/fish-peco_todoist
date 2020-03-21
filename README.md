@@ -14,3 +14,10 @@ function fish_user_key_bindings
   bind \etd peco_todoist_delete
 end
 ```
+
+## Install
+
+```
+omf install https://github.com/ka2n/fish-peco_todoist
+```
+
